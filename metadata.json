@@ -1,0 +1,7 @@
+{
+  "name": "더 숨 디자인 - 맞춤 가구 & 공간 디자인",
+  "description": "20년 전통 맞춤 가구 및 공간 디자인 브랜드 더 숨 디자인 공식 웹사이트 및 오카브 비즈(OcavBiz) CMS & 5단계 맞춤 견적 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
